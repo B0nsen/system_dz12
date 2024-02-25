@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Modeless Dialog.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  LoginWindow.cpp
+C:\Users\oitut\source\repos\Modeless Dialog\Modeless Dialog\LoginWindow.cpp(40,9): warning C4101: temp: неиспользованная локальная переменная
+  Modeless Dialog.vcxproj -> C:\Users\oitut\source\repos\Modeless Dialog\Debug\Login.exe
